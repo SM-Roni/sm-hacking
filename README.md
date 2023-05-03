@@ -1,43 +1,12 @@
 <img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/Logo/IMG-cd518796cb4b0527368a1b9dd67a8889-V.jpg"/>
 
 <p align="center">
-<a href="https://github.com/mishakorzik/AllHackingTools"><img title="Version" src="https://img.shields.io/badge/Version-2.7.4-yellow?style=for-the-badge&logo="></a>
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
+<a href="https://github.com/SM-Roni/sm-hacking"><img title="Version" src="https://img.shields.io/badge/Version-2.7.4-yellow?style=for-the-badge&logo="></a>
+<a href="https://github.com/SM-Roni/sm-hacking/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.8-red?style=for-the-badge&logo=python"></a>
-<a href="https://github.com/mishakorzik"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mishakorzik"><img title="Autor" src="https://img.shields.io/badge/Author-mishakorzik-blue?style=for-the-badge&logo=github"></a>
-
+<
 </p>
 
-<p align="center">
-• <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE">License</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/issues">Issues</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/projects">Project</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/wiki">Wikipedia</a> •
-
-</p>
-
-> AllHackingTools: is a system designed to automate the download process and install various tools for penetration testing.
-
----------------------
-
-#### Hi, if you want to set up a termux quickly, here you are! More Hacking tools with one tool!
-
-> Я не несу ответственности за ваши действия. Скачивая программное обеспечение из этого репозитория, вы соглашаетесь с [лицензией](https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE).
-
----------
-## Supported systems
-#### will download 5-20 minutes
-
-<a href="https://github.com/mishakorzik"><img title="Termux" src="https://img.shields.io/badge/Supported-Termux-blue?style=for-the-badge&logo=github"></a>
-
-**Here on these systems works AllHackingTools** <br>
-## Tool tested on:
-
-<a href="https://github.com/mishakorzik"><img title="Termux" src="https://img.shields.io/badge/Tested on-Termux-blue?style=for-the-badge&logo=github"></a>
-
-------------------------------
-> If you do not understand anything then there is a [translate](#Translate).
 
 ## New features:  <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/code-slash.svg"/>
 
@@ -405,10 +374,6 @@ Desing:
 
 #### And more packages!
 ------
-## Donate
-
-**If you want to donate, click on the button**
-<a href="https://www.buymeacoffee.com/misakorzik"><img title="Donate" src="https://img.shields.io/badge/Donate-AllHackingTools-yellow?style=for-the-badge&logo=github"></a>
 
 ---
 
@@ -435,13 +400,7 @@ Desing:
 
 • [Dependencies](#depencies) • [Installing](#installing) • [Options](#viewmenu)
 
-<a id="Translate"></a>
-## Translate
 
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Ukraine.md"><img title="Unkraine" src="https://img.shields.io/badge/Translate%20to-Ukraine-inactive?style=for-the-badge&logo=google-translate"></a>
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Russia.md"><img title="Russian" src="https://img.shields.io/badge/Translate%20to-Russian-inactive?style=for-the-badge&logo=google-translate"></a>
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Spanish.md"><img title="Spanish" src="https://img.shields.io/badge/Translate%20to-Spanish-inactive?style=for-the-badge&logo=google-translate"></a>
-</p>
 
 ## Find Me 
 [![Github](https://img.shields.io/badge/Reddit-MishaKorzhik-red?style=for-the-badge&logo=reddit)](https://www.reddit.com/u/Necessary_Mammoth368?utm_medium=android_app&utm_source=share)
@@ -465,14 +424,10 @@ Desing:
 
 -------------
 
-**Repository Views** ![Views](https://profile-counter.glitch.me/AllHackingTools/count.svg)
+**Repository Views** ![Views](https://profile-counter.glitch.me/SM-Roni/count.svg)
 
 ---------------------------
-<img src="https://github-readme-stats.vercel.app/api?username=mishakorzik&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=SM-Roni&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
 
-###### Статья носит исследовательский характер. Она адресована специалистам по безопасности и тем, кто собирается ими стать. При ее написании использовались общедоступные базы данных. Ни редакция, ни автор не несут ответственности за неэтичное использование любых упомянутых здесь сведений. Team: He1Zen
 
-## Supporters
-[![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
-[![Forkers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/forks/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/members)
 
